@@ -1,0 +1,74 @@
+NETWORK
+
+lan man can wan san vpn pan
+
+local area network
+private/ intranet- free of cost
+
+twisted pair cable
+
+RJ(register jack)-45 8 wires...
+8 pins....
+
+LAN- MOST USEHARDWARE DEVICE IS SWITCH (twisted pair cable/ WI-FI)
+
+MAN- MAN IS A SEGMENT OF MUTLTIPLE BUT DIFFERENT LOCAL AREA NETWORK
+     BUT IT SHOULD BE AVAILABLE WITHIN THE CITY BOUNDARY AREA (eternet)
+
+WAN- WIDE AREA NETWORK (THIS IS THE ONLY NETWORK WHICH HAS UN LIMITED  GEOGRAPHICAL AREA AND THEREFOR ITS WORK ON WWW (ROUTER USE HOTA HAI OR SATELITE)
+
+CAN- CAMPUS AREA NETWORK ARE WITHIN THE CAMPUS
+
+SAN- STORAGE AREA NETWORK (centralize manner)
+     file server/FTP(file trasfer protocol) server- client
+
+IED/    /SCSI/RAID
+
+
+VPN (VIRTUAL PRIVATE NETWORK)
+
+end to end turnel through vpn
+
+PAN(personal area network)
+(bluetooth,infrared)
+
+
+TOPOLOGY - Physical layout of a network
+Deisgn of a network
+
+Type of topology
+
+
+
+
+
+
+
+WHAT IS NETWORKING
+
+1. PEER to PEER networking (workgroup)
+2. Domain/Server-Client network
+
+
+
+ADDS
+domain controller machine
+
+
+DOUBT:
+
+1- HAN
+
+2- Agar ek bandha ek room me hai aur ek dusre room me hai aur via                         facebook chat kar rahe hai tho vo konsa network hai
+
+ans- WAN
+
+3- Which area network is fastest (LAN,MAN,WAN)
+
+ans- LAN (max speed) & most secure becoz of wire
+
+     WAN (min speed)
+     
+
+
+HOW MANY TYPRES OF LAN CARD ARE AVAILABLE IN MARKET
